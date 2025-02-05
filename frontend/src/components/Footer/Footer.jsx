@@ -28,15 +28,20 @@ const Footer = () => {
           </ul>
         </div>
         <div className="footer-content-right">
-            <h2>GET IN TOUCH</h2>
-            <ul>
-                <li>+91 9221059303</li>
-                <li>sumitpadma@cloudbite.com</li>
-            </ul>
+          <h2>GET IN TOUCH</h2>
+          <ul>
+            <li>+91 9221059303</li>
+            <li>+91 9987977085</li>
+            <li>sumitpadma@cloudbite.com</li>
+
+            <li>mohit22shukla@cloudbite.com</li>
+          </ul>
         </div>
       </div>
-      <hr/>
-      <p className="footer-copyright-text">Copyright 2024 @ CloudBite -All Right Reserved</p>
+      <hr />
+      <p className="footer-copyright-text">
+        Copyright 2024 @ CloudBite -All Right Reserved
+      </p>
     </div>
   );
 };
