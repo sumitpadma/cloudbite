@@ -2,7 +2,7 @@ import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import CloudBite from './CloudBite.png'
 import header_img from './header_img.png'
-import header from './header.png'
+import header_imgg from './header.png'
 import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
@@ -67,7 +67,7 @@ export const assets = {
     CloudBite,
     basket_icon,
     header_img,
-    header,
+    header_imgg,
     search_icon,
     rating_starts,
     add_icon_green,
