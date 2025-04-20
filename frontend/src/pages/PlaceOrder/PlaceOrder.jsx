@@ -56,7 +56,7 @@ const PlaceOrder = () => {
   useEffect(() => {
     if (!token) {
       navigate("/cart");
-    }else if(getTotalCartAmount===0)
+    }else if (getTotalCartAmount === 0) 
     {
       navigate("/cart");
     }
