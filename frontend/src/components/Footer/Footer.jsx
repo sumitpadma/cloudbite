@@ -8,9 +8,11 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.CloudBite} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            eveniet minima, repellat architecto velit tenetur ducimus maiores?
-            Enim, provident nisi!
+            A food delivery website provides a user-friendly platform for
+            customers to browse local restaurants, view menus, and easily place
+            orders from home. With real-time order tracking and secure payment
+            options, it ensures convenient and timely delivery of a variety of
+            delicious meals, enhancing dining experiences.
           </p>
           <div className="footer-social-section">
             <img src={assets.facebook_icon} alt="" />
